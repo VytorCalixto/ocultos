@@ -1,0 +1,14 @@
+[core]
+        editor = vim
+        excludesFile = ~/.gitignore
+[alias]
+        c=commit
+        s=status
+        aa=add -A
+        br=branch
+        ca=commit -a
+        co=checkout
+        cob=checkout -b
+        cane=commit -a --amend --no-edit
+        mnff=merge --no-ff
+        fallp=fetch --all -p
